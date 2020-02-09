@@ -4,4 +4,4 @@ This project provides a recurrent neural network (RNN) built with the `Pytorch` 
 
 This project is a part of the Udacity "Machine Learning Engineering" Nanodegree. Details are found here [README](https://github.com/udacity/sagemaker-deployment/tree/master/README.md).
 
-Read a markdown version of the main code here [REPORT] (https://github.com/MariosTsatsos/aws_sentiment_analysis/blob/master/SageMaker%20Project.md)
+Read a markdown version of the main code here [REPORT](https://github.com/MariosTsatsos/aws_sentiment_analysis/blob/master/SageMaker%20Project.md)
