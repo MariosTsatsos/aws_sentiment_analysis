@@ -5,9 +5,7 @@ This project provides a recurrent neural network (RNN) built with the `Pytorch` 
 This project is a part of the Udacity "Machine Learning Engineering" Nanodegree. Details are found here [README](https://github.com/udacity/sagemaker-deployment/tree/master/README.md).
 
 
-Read a markdown version of the main code here [REPORT](https://github.com/MariosTsatsos/aws_sentiment_analysis/blob/master/report.md).
-
-
+Read a markdown version of the main code here [REPORT](https://github.com/MariosTsatsos/aws_sentiment_analysis/blob/screenshots/report.md).
 
 
 
@@ -15,8 +13,8 @@ Read a markdown version of the main code here [REPORT](https://github.com/Marios
 
 
 This is how you use the deployed app:
-![Image of WebApp1](https://github.com/MariosTsatsos/aws_sentiment_analysis/blob/master/img/Screenshot1.png)
+![Image of WebApp1](https://github.com/MariosTsatsos/aws_sentiment_analysis/screenshots/img/Screenshot1.png)
 
 This is how you trick the deployed app:
-![Image of WebApp2](https://github.com/MariosTsatsos/aws_sentiment_analysis/blob/master/img/Screenshot2.png)
+![Image of WebApp2](https://github.com/MariosTsatsos/aws_sentiment_analysis/screenshots/img/Screenshot2.png)
 
